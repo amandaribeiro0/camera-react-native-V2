@@ -7,7 +7,7 @@
 ## ✅ Demonstração
 
 <div display='flex'>
-  <img src="https://github.com/guigams/Camera-ReactNative-V2/blob/main/Images/DemoCam.PNG" />
+  <img src="https://github.com/amandaribeiro0/camera-react-native-V2/blob/main/Images/DemoCam.PNG" />
 </div>
 
 ### 🚀 Used Libraries
